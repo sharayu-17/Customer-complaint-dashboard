@@ -11,11 +11,11 @@ This project is a data visualization dashboard that showcases customer complaint
 - **Year Trend**: Highlights the yearly growth or decline in the number of complaints.
 
 **Tableau Dashboard Image**
-(`Dashboard.png`)
+![Dashboard](./Dashboard.png)
 
 ## Dataset
  
-### 1. Complaints Dataset (`complaints_Full Data.csv`)
+### 1. Complaints Dataset [`Complaints`](./complaints_Full%20Data.csv)
 - Contains detailed records of customer complaints with columns such as:
   - Date Received
   - Product Type
@@ -23,7 +23,7 @@ This project is a data visualization dashboard that showcases customer complaint
   - Request Type
   - Complaint ID
  
-### 2. State Map Dataset (`State Map_Full Data.csv`)
+### 2. State Map Dataset [`State Map`](./State%20Map_Full%20Data.csv)
 - Contains state-level data for mapping purposes with columns:
   - State Abbreviation
   - Total Complaints
