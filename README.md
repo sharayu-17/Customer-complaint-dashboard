@@ -11,7 +11,8 @@ This project is a data visualization dashboard that showcases customer complaint
 - **Year Trend**: Highlights the yearly growth or decline in the number of complaints.
 
 **Tableau Dashboard Image**
-  
+(`Dashboard.png`)
+
 ## Dataset
  
 ### 1. Complaints Dataset (`complaints_Full Data.csv`)
